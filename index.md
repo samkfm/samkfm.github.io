@@ -8,15 +8,15 @@ hero_image_alt: Ma photo
 hero_image_ratio: is-1by1
 ---
 
-# Prénom NOM
-Elève ingénieur en [préciser sa spécialité]
+# Samantha Kaufmann-Deblock
+Elève ingénieur en 1ère année 
 
 
-Disponible XX mois à partir de Date
+Disponible 1 mois à partir du 1er juillet
 
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
+[samanthakfm[at]outlook.fr](mailto:samanthakfm@outlook.fr)
 
-[LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
+[LinkedIn](https://www.linkedin.com/in/Samantha.Kaufmann-Deblock)
 
 Permis B, voiture
 
