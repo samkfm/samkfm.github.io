@@ -5,13 +5,6 @@ theme: bulma-clean-theme
 
 url: https://github.com/gorinje/craft-the-cv2
 
-.navbar {
-  background-color: #ff5bba !important;
-}
-
-body {
-  background-color: #ff5bba !important;
-}
 force_theme: light
 permalink: pretty
 lang: fr
