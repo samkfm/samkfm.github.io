@@ -16,7 +16,7 @@ Disponible 1 mois à partir du 1er juillet
 
 [samanthakfm[at]outlook.fr](mailto:samanthakfm@outlook.fr)
 
-[LinkedIn](https://www.linkedin.com/in/Samantha.Kaufmann-Deblock)
+[LinkedIn](https://www.linkedin.com/in/samantha-kaufmann-deblock-4ab136345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 Permis B, voiture
 
