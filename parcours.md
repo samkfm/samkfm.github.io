@@ -13,35 +13,34 @@ download_cv: assets/docs/Template_CV.pdf
 
 Elève ingénieur en énergie numérique
 * Cours : Mathématiques, physique, Programmation et Électronique
+  
 
-`20XX – 20XX`
-**DUT [préciser la spécialité]** - Université [préciser le lieu]
-* Cours : préciser les cours en phase avec le poste visé
+`2024`
+**Lycée Félix Faure**
 
-`20XX`
-Bac [préciser la spécialité], mention éventuelle, Lieu
+Bac générale spécialités mathématiques et physique - chimie option maths expertes, mention bien, Beauvais 
 
 ## Expériences
 
-`20XX` **Projet d’étude – préciser le thème du projet**
+`2024` **Unisique - UniLaSalle Amiens**
 
-_Réalisé en équipe de XX étudiants_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+_Chanteuse dans le groupe de musique "Amea 51" et responsable communication_
+* Interprétation de chansons déjà existantes et participation à des concerts 
+* Gérer la communication et les réseaux sociaux de l'association 
 
 
-`20XX` **Entreprise, secteur activité, description site rejoint, taille, ville**
+`2024` **Unimakers - UniLaSalle Amiens**
 
-_Stage – intitulé du poste_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+_Coupe de France de Robotique 2024_
+* Membre d'un groupe de première année participant à la coupe de France de robotique 2024
+* Elaboration d'un robot répondant à certains critères pouvant être mis en compétition avec d'autres robots
 
-`20XX` **Association, description de l’asso., taille**
 
-_Intitulé du poste dans une équipe de XX membres_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+`2023` **Vente de charcuterie - Marché de Noël**
+
+_Trésorière et vendeuse_
+* Vente de charcuterie et de plats pour Noël
+* Gérer la caisse
 
 ## Compétences
 
