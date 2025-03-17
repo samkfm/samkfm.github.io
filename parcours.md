@@ -45,22 +45,24 @@ _Trésorière et vendeuse_
 ## Compétences
 
 Langues
-* LV1 à préciser : niveau à préciser (résultat d’examen)
-* LV2 à préciser : niveau à préciser (résultat d’examen)
+* LV1 Anglais : B1 (TOEIC)
+* LV2 Allemand : A2+
+* LV3 Japonais : A1
 
 Informatique
-* Logiciels maitrisés
-* Logiciels maitrisés
+* Logiciels Windows (Word, Powerpoint, Exel...)
+* Maitrise du langage C
+* Maitrise du langage Python
 
 Autres
-* Autres diplômes ou permis spéciaux
+* Diplôme de médiateur
 
 ## Centres d’intérêt
 
-Loisirs 1
-* Description 
-* Description 
+Musique 
+* Chanteuse amatrice depuis 2016
+* Chanteuse dans un groupe depuis 2024
 
-Loisirs 1
-* Description 
-* Description 
+Lecture
+* Romans policier
+* Romans d'horreur
