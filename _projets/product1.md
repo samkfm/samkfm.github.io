@@ -3,7 +3,7 @@ title: Projet 1
 subtitle: Projet conception et prototypage
 description: Porte brosse à dent 
 layout: product
-image: https://via.placeholder.com/640x480
+image: IMG_7097.jpeg
 ---
 
 Nous avons voulu créer un nouveau type de porte brosse à dent : design, efficace et pratique. On a donc créer ce porte brosse à dent qui à plusieurs fonctionalités : il porte les brosses à dents à la verticale et on peut mettre un goblet dans le porte goblet intégrer. 
