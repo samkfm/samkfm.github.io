@@ -22,21 +22,21 @@ Bac générale spécialités mathématiques et physique - chimie option maths ex
 
 ## Expériences
 
-`2024` **Unisique - UniLaSalle Amiens**
+`2025` **Stage ouvrier - 10Fers Serrurerie Méru** _- 1 mois_
+
+_Manutention_
+* Soudure 
+* Entretien de l'atelier
+
+
+`2024 - now` **Unisique - UniLaSalle Amiens**
 
 _Chanteuse dans le groupe de musique "Amea 51" et responsable communication_
 * Interprétation de chansons déjà existantes et participation à des concerts 
-* Gérer la communication et les réseaux sociaux de l'association 
+* Gérer la communication et les réseaux sociaux de l'association
+  
 
-
-`2024` **Unimakers - UniLaSalle Amiens**
-
-_Coupe de France de Robotique 2024_
-* Membre d'un groupe de première année participant à la coupe de France de robotique 2024
-* Elaboration d'un robot répondant à certains critères pouvant être mis en compétition avec d'autres robots
-
-
-`2023` **Vente de charcuterie - Marché de Noël**
+`2023` **Vente de charcuterie - Marché de Noël** _1 semaine_
 
 _Trésorière et vendeuse_
 * Vente de charcuterie et de plats pour Noël
