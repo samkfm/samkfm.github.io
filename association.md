@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Mes associations
-description: "Ceci est un exemple de CV que vous pouvez générer par vous-même"
-menubar: menu_bar
-hero_image: IMG_8320 3.jpg
-hero_image_alt: Ma photo
-hero_image_ratio: is-1by1
+title: Mes Associations
+subtitle: "Découvrez les associations dans lesquelles je m'investis"
+hero_text: "Voici un aperçu des associations auxquelles je participe activement, leurs missions et mes rôles."
+
 ---
 
 ## UNISIQUE
