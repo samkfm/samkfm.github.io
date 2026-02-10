@@ -1,27 +1,21 @@
 ---
-# SCSS compilé par Jekyll pour ton site
 ---
 
-/* Google Fonts */
 @import url("https://fonts.googleapis.com/css?family=Montserrat");
 
-/* Font-face perso */
 @font-face {
     font-family: "Indivisa Text Sans-Regular";
     src: url("../fonts/Indivisa Text Sans-Regular.ttf");
-    font-weight: normal;
-    font-style: normal;
 }
 
-/* Police principale */
-$family-primary: "Indivisa Text Sans-Regular", sans-serif;
+$family-primary: "Indivisa Text Sans-Regular",sans-serif;
 
-/* Couleur principale avant import de Bulma */
-$primary: #e8a1b0;  /* rose clair professionnel */
+/* Couleurs avant import Bulma */
+$primary: #e8a1b0;  /* rose clair */
 $link: #e8a1b0;
 
 /* Import Bulma */
-@import "bulma/bulma";
+@import "bulma";
 
 /* Hero photo */
 .hero-photo {
@@ -30,27 +24,10 @@ $link: #e8a1b0;
     background-size: cover;
 }
 
-/* Ajustement pour mobile */
 @media screen and (max-width: 768px) {
     .hero-photo {
         background-position: center top;
     }
-}
-
-/* Navbar custom si besoin */
-.navbar.is-primary {
-    background-color: $primary !important;
-}
-
-/* Boutons is-primary */
-.button.is-primary {
-    background-color: $primary !important;
-    border-color: $primary !important;
-}
-
-/* Liens is-primary */
-a.is-primary {
-    color: $primary !important;
 }
 
 
