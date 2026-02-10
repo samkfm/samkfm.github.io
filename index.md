@@ -12,7 +12,8 @@ hero_image_ratio: is-1by1
 Élève ingénieur en 2ème année 
 
 
-Disponible 1 mois à partir du 1er juillet
+Actuellement à la recherche d'une alternance en ingénieurie en automatsime pour la rentrée de septembre
+Contrat de 3 ans
 
 [samanthakfm[at]outlook.fr](mailto:samanthakfm@outlook.fr)
 
