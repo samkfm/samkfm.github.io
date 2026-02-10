@@ -9,11 +9,14 @@
 
 $family-primary: "Indivisa Text Sans-Regular", sans-serif;
 
+/* Variables avant Bulma */
 $primary: #e8a1b0; /* rose clair */
 $link: #e8a1b0;
 
+/* Import Bulma */
 @import "bulma";
 
+/* Hero photo */
 .hero-photo {
   background-position: center center;
   background-repeat: no-repeat;
@@ -25,7 +28,8 @@ $link: #e8a1b0;
     background-position: center top;
   }
 }
-/* Forcer le rose clair sur tout ce qui est primaire */
+
+/* Forcer les couleurs pour le thème */
 html.theme-light .navbar.is-primary,
 html.theme-light .button.is-primary,
 html.theme-light .tabs li.is-active a,
@@ -36,13 +40,6 @@ html.theme-light .pagination .button.is-primary {
 
 html.theme-light a,
 html.theme-light a.button.is-primary {
-  color: #e8a1b0 !important;
-}
-
-
-/* Liens et boutons */
-a,
-a.button.is-primary {
   color: #e8a1b0 !important;
 }
 
