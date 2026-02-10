@@ -1,21 +1,26 @@
---- ---
+---
+---
+
+/* Google Fonts */
 @import url("https://fonts.googleapis.com/css?family=Montserrat");
 
+/* Police perso */
 @font-face {
   font-family: "Indivisa Text Sans-Regular";
   src: url("../fonts/Indivisa Text Sans-Regular.ttf");
 }
 
-$family-primary: "Indivisa Text Sans-Regular",sans-serif;
+/* Police principale */
+$family-primary: "Indivisa Text Sans-Regular", sans-serif;
 
-/* Variables avant import de Bulma */
+/* VARIABLES AVANT BULMA */
 $primary: #e8a1b0; /* rose clair */
 $link: #e8a1b0;
 
-/* Import Bulma */
+/* BULMA */
 @import "bulma";
 
-/* Photo hero */
+/* Hero photo */
 .hero-photo {
   background-position: center center;
   background-repeat: no-repeat;
