@@ -11,7 +11,7 @@ download_cv: CV Samantha.pdf
 `2024 – 2029`
 **UniLaSalle Amiens**
 
-Elève ingénieur en énergie numérique
+Élève ingénieur en énergie numérique
 * Cours : Mathématiques, physique, Programmation et Électronique
   
 
