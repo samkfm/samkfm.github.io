@@ -9,7 +9,7 @@ hero_image_ratio: is-1by1
 ---
 
 # Samantha Kaufmann-Deblock
-Elève ingénieur en 2ème année 
+Élève ingénieur en 2ème année 
 
 
 Disponible 1 mois à partir du 1er juillet
