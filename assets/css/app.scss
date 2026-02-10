@@ -1,5 +1,7 @@
 ---
---- 
+# En-tête YAML pour Jekyll
+---
+
 @import url("https://fonts.googleapis.com/css?family=Montserrat");
 
 @font-face {
@@ -16,7 +18,7 @@ $primary: #e8a1b0;  /* rose clair */
 $link: #e8a1b0;
 
 /* Import Bulma */
-@import "bulma";
+@import "bulma/bulma";
 
 /* Photo hero */
 .hero-photo {
