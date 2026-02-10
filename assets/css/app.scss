@@ -31,17 +31,18 @@ $link: #e8a1b0;
     background-position: center top;
   }
 }
-/* Forcer le rose clair partout */
-.navbar.is-primary,
-.button.is-primary {
+/* Forcer le rose clair même avec le thème */
+.theme-light .navbar.is-primary,
+.theme-light .button.is-primary {
   background-color: #e8a1b0 !important;
   border-color: #e8a1b0 !important;
 }
 
-a,
-a.button.is-primary {
+.theme-light a,
+.theme-light a.button.is-primary {
   color: #e8a1b0 !important;
 }
+
 
 
 
