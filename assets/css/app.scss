@@ -25,6 +25,18 @@ $link: #e8a1b0;
     background-position: center top;
   }
 }
+/* Forcer le rose clair sur navbar et boutons */
+.navbar.is-primary,
+.button.is-primary {
+  background-color: #e8a1b0 !important;
+  border-color: #e8a1b0 !important;
+}
+
+/* Liens et boutons */
+a,
+a.button.is-primary {
+  color: #e8a1b0 !important;
+}
 
 
 
