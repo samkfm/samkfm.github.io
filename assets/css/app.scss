@@ -6,8 +6,9 @@
 }
 
 $family-primary: "Indivisa Text Sans-Regular",sans-serif;
-$primary: #4da3ff;
-$link: #4da3ff;
+$primary: #e8a1b0;   // rose poudré, élégant
+$link: #e8a1b0;
+
 // Import Main CSS file from theme
 @import "main";
 
@@ -18,3 +19,15 @@ $link: #4da3ff;
 .menu-label {
     font-size : 1em;
 }
+.hero-photo {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@media screen and (max-width: 768px) {
+    .hero-photo {
+        background-position: center top;
+    }
+}
+
