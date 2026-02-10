@@ -25,6 +25,20 @@ $link: #e8a1b0;
     background-position: center top;
   }
 }
+/* Forcer le rose clair partout sur l'interface */
+html.theme-light .navbar.is-primary,
+html.theme-light .button.is-primary,
+html.theme-light .tabs li.is-active a,
+html.theme-light .pagination .button.is-primary {
+  background-color: #e8a1b0 !important;
+  border-color: #e8a1b0 !important;
+}
+
+html.theme-light a,
+html.theme-light a.button.is-primary {
+  color: #e8a1b0 !important;
+}
+
 
 
 
