@@ -1,5 +1,35 @@
---- ---
-@import url("https://fonts.googleapis.com/css?family=Montserrat");@font-face { font-family: "Indivisa Text Sans-Regular"; src: url("../fonts/Indivisa Text Sans-Regular.ttf") } $family-primary: "Indivisa Text Sans-Regular",sans-serif; /* Variables avant l'import de Bulma */ $primary: #e8a1b0; /* ton rose clair */ $link: #e8a1b0; /* Import Bulma */ @import "bulma"; /* Photo hero */ .hero-photo { background-position: center center; background-repeat: no-repeat; background-size: cover; } @media screen and (max-width: 768px) { .hero-photo { background-position: center top; } }
+---
+---
+
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+
+@font-face {
+    font-family: "Indivisa Text Sans-Regular";
+    src: url("../fonts/Indivisa Text Sans-Regular.ttf");
+}
+
+$family-primary: "Indivisa Text Sans-Regular", sans-serif;
+
+/* Variables avant l'import de Bulma */
+$primary: #e8a1b0; /* ton rose clair */
+$link: #e8a1b0;
+
+/* Import Bulma */
+@import "bulma";
+
+/* Photo hero */
+.hero-photo {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@media screen and (max-width: 768px) {
+    .hero-photo {
+        background-position: center top;
+    }
+}
+
 
 
 
