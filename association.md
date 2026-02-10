@@ -7,7 +7,6 @@ hero_text: "Voici un aperçu des associations auxquelles je participe activement
 show_hero: true
 ---
 
-
 ## UNISIQUE
 
 
