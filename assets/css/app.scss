@@ -1,25 +1,19 @@
 ---  ---
 
-/* Google Fonts */
 @import url("https://fonts.googleapis.com/css?family=Montserrat");
 
-/* Police perso */
 @font-face {
   font-family: "Indivisa Text Sans-Regular";
   src: url("../fonts/Indivisa Text Sans-Regular.ttf");
 }
 
-/* Police principale */
 $family-primary: "Indivisa Text Sans-Regular", sans-serif;
 
-/* VARIABLES AVANT BULMA */
 $primary: #e8a1b0; /* rose clair */
 $link: #e8a1b0;
 
-/* BULMA */
 @import "bulma";
 
-/* Hero photo */
 .hero-photo {
   background-position: center center;
   background-repeat: no-repeat;
@@ -30,17 +24,6 @@ $link: #e8a1b0;
   .hero-photo {
     background-position: center top;
   }
-}
-/* Forcer le rose clair même avec le thème */
-.theme-light .navbar.is-primary,
-.theme-light .button.is-primary {
-  background-color: #e8a1b0 !important;
-  border-color: #e8a1b0 !important;
-}
-
-.theme-light a,
-.theme-light a.button.is-primary {
-  color: #e8a1b0 !important;
 }
 
 
