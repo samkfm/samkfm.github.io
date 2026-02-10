@@ -36,7 +36,7 @@ _Chanteuse dans le groupe de musique "Amea 51" et responsable communication_
 * Gérer la communication et les réseaux sociaux de l'association
   
 
-`2023` **Vente de charcuterie - Marché de Noël** _1 semaine_
+`2023` **Vente de charcuterie - Marché de Noël** _- 1 semaine_
 
 _Trésorière et vendeuse_
 * Vente de charcuterie et de plats pour Noël
