@@ -1,13 +1,18 @@
 ---
 ---
-@import url("https://fonts.googleapis.com/css?family=Montserrat");@font-face {
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+
+@font-face {
     font-family: "Indivisa Text Sans-Regular";
-    src: url("../fonts/Indivisa Text Sans-Regular.ttf")
+    src: url("../fonts/Indivisa Text Sans-Regular.ttf");
+    font-weight: normal;
+    font-style: normal;
 }
 
-$family-primary: "Indivisa Text Sans-Regular",sans-serif;
+$family-primary: "Indivisa Text Sans-Regular", sans-serif;
+
 /* Variables avant l'import de Bulma */
-$primary: #e8a1b0;  /* ton rose clair */
+$primary: #e8a1b0;  /* rose clair */
 $link: #e8a1b0;
 
 /* Import Bulma */
@@ -25,3 +30,4 @@ $link: #e8a1b0;
         background-position: center top;
     }
 }
+
