@@ -6,19 +6,14 @@
 }
 
 $family-primary: "Indivisa Text Sans-Regular",sans-serif;
-$primary: #e8a1b0;   // rose poudré, élégant
+/* Variables avant l'import de Bulma */
+$primary: #e8a1b0;  /* ton rose clair */
 $link: #e8a1b0;
 
-// Import Main CSS file from theme
-@import "main";
+/* Import Bulma */
+@import "bulma";
 
-.navbar-item img {
-    max-height: 2.75rem;
-}
-
-.menu-label {
-    font-size : 1em;
-}
+/* Photo hero */
 .hero-photo {
     background-position: center center;
     background-repeat: no-repeat;
@@ -30,7 +25,3 @@ $link: #e8a1b0;
         background-position: center top;
     }
 }
-body {
-    background: yellow !important;
-}
-
