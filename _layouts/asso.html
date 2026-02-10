@@ -1,1 +1,110 @@
+<!doctype html>
+<html
+    dir="{{ site.direction | default: 'ltr' }}"
+    lang="{{ site.lang | default: 'en' }}"
+    class="{% if site.fixed_navbar %} has-navbar-fixed-{{ site.fixed_navbar }} {% endif %} {% if site.force_theme %} theme-{{ site.force_theme }} {% endif %}"
+>
+    {% include head.html %}
+    <body>
+        {% if site.cookie_policy %}
+            {% include cookie-banner.html %}
+        {% endif %}
+        {% include header.html %}
+
+        <!-- Section Hero -->
+        <section class="hero hero-banner is-primary">
+            <div class="hero-body">
+                <div class="container">
+                    <div class="columns is-centered">
+                        <div class="column is-8-tablet is-6-desktop has-text-centered">
+                            <h1 class="title is-1">{{ page.title }}</h1>
+                            {% if page.subtitle %}
+                                <p class="subtitle is-3">{{ page.subtitle }}</p>
+                            {% endif %}
+                            {% if page.hero_text %}
+                                <div class="content mt-4">
+                                    {{ page.hero_text }}
+                                </div>
+                            {% endif %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section Associations -->
+        <section class="section">
+            <div class="container">
+                <h2 class="title is-2 has-text-centered">Mes Associations</h2>
+                <div class="columns is-multiline mt-5">
+
+                    <!-- Exemple de carte pour une association -->
+                    <div class="column is-4-tablet is-4-desktop">
+                        <div class="card">
+                            <div class="card-image">
+                                <figure class="image is-4by3">
+                                    <img src="{{ site.baseurl }}/assets/imgs/asso1.jpg" alt="Association 1">
+                                </figure>
+                            </div>
+                            <div class="card-content">
+                                <p class="title is-4">Association 1</p>
+                                <p class="content">
+                                    Description courte de l'association, ses missions et ce que tu y fais. Très concis et clair.
+                                </p>
+                            </div>
+                            <footer class="card-footer">
+                                <a href="https://www.lien-asso1.com" class="card-footer-item button is-primary is-light">Voir le site</a>
+                            </footer>
+                        </div>
+                    </div>
+
+                    <!-- Carte pour l'association 2 -->
+                    <div class="column is-4-tablet is-4-desktop">
+                        <div class="card">
+                            <div class="card-image">
+                                <figure class="image is-4by3">
+                                    <img src="{{ site.baseurl }}/assets/imgs/asso2.jpg" alt="Association 2">
+                                </figure>
+                            </div>
+                            <div class="card-content">
+                                <p class="title is-4">Association 2</p>
+                                <p class="content">
+                                    Une courte description de l'association, tes responsabilités ou projets majeurs.
+                                </p>
+                            </div>
+                            <footer class="card-footer">
+                                <a href="https://www.lien-asso2.com" class="card-footer-item button is-primary is-light">Voir le site</a>
+                            </footer>
+                        </div>
+                    </div>
+
+                    <!-- Carte pour l'association 3 -->
+                    <div class="column is-4-tablet is-4-desktop">
+                        <div class="card">
+                            <div class="card-image">
+                                <figure class="image is-4by3">
+                                    <img src="{{ site.baseurl }}/assets/imgs/asso3.jpg" alt="Association 3">
+                                </figure>
+                            </div>
+                            <div class="card-content">
+                                <p class="title is-4">Association 3</p>
+                                <p class="content">
+                                    Bref texte présentant l'association et ton rôle.
+                                </p>
+                            </div>
+                            <footer class="card-footer">
+                                <a href="https://www.lien-asso3.com" class="card-footer-item button is-primary is-light">Voir le site</a>
+                            </footer>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+        {% include footer.html %}
+        <script src="{{ site.baseurl }}/assets/js/app.js" type="text/javascript"></script>
+        {%- include footer-scripts.html -%}
+    </body>
+</html>
 
