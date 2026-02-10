@@ -2,8 +2,8 @@
   link: /parcours/
 - name: Mes réalisations
   link: /realisations/
-# - name: Blog
-#   link: /blog/
+- name: Mes associations
+  link: /association/
 #   dropdown: 
 #     - name: Page 2
 #       link: /page-2/
