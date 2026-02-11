@@ -1,5 +1,5 @@
 ---
-layout: page       
+layout: asso       
 title: Mes Associations
 subtitle: "UNISIQUE"
 hero_text: "Voici un aperçu des associations auxquelles je participe activement, leurs missions et mes rôles."
