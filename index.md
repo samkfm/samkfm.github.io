@@ -3,7 +3,7 @@ layout: promo-page
 title: Qui suis-je?
 description: "Ceci est un exemple de CV que vous pouvez générer par vous-même"
 menubar: menu_bar
-hero_image: IMG_8320 3.jpg
+hero_image: Unknown-removebg-preview-fotor-20250728183532.png
 hero_image_alt: Ma photo
 hero_image_ratio: is-1by1
 ---
