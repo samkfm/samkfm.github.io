@@ -31,53 +31,6 @@ $link: #FFB5C0;
   }
 }
 
-/* -------------------------------------------------- */
-/* Forcer le rose clair sur toutes les parties du thème */
-/* -------------------------------------------------- */
-
-/* Navbar complète */
-html.theme-light .navbar,
-html.theme-light .navbar-menu,
-html.theme-light .navbar-item,
-html.theme-light .navbar.is-primary {
-  background-color: #e8a1b0 !important;
-  border-color: #e8a1b0 !important;
-}
-
-/* Tous les boutons */
-html.theme-light .button,
-html.theme-light .button.is-primary,
-html.theme-light .button.is-info {
-  background-color: #e8a1b0 !important;
-  border-color: #e8a1b0 !important;
-  color: #fff !important;
-}
-
-/* Liens et boutons */
-html.theme-light a,
-html.theme-light a.button {
-  color: #e8a1b0 !important;
-}
-
-/* Tabs actives */
-html.theme-light .tabs li.is-active a {
-  border-bottom-color: #e8a1b0 !important;
-  color: #e8a1b0 !important;
-}
-
-/* Pagination bouton actif */
-html.theme-light .pagination .button.is-primary {
-  background-color: #e8a1b0 !important;
-  border-color: #e8a1b0 !important;
-}
-
-/* Optionnel : hover pour boutons et liens */
-html.theme-light .button:hover,
-html.theme-light a:hover {
-  background-color: #d88fa0 !important; /* un rose un peu plus foncé pour l'effet hover */
-  border-color: #d88fa0 !important;
-  color: #fff !important;
-}
 
 
 
