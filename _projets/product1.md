@@ -3,7 +3,7 @@ title: Projet 1
 subtitle: Projet Tetris
 description: Réalisation d'un jeu emblématique : Tetris  
 layout: product
-image: IMG_7097.jpeg
+image: Screenshot 2026-02-16 at 22.35.26.png
 ---
 
 Pour ma deuxième année en cycle préparatoire à UniLaSalle Amiens, j'ai eu pour projet de réaliser un jeu tetris complet avec une camarade de promo. Pour cela, nous avons utilisées la bibliothèque SDL2 qui permet d'ouvrir une fenêtre à partir d'un code en langage C. Pour réaliser ce projet, nous avons toute les deux utilisées VScode (visual studio) et nous avons mis notre code sur github pour pouvoir le modifier ensemble à partir de nos ordinateurs respectifs. 
